@@ -7,6 +7,11 @@ enum class TokenType {
     PLUS,
     MINUS,
     EOF_TOKEN
+    PRINT
+    INT_MAIN
+    PYTHON
+    CPP
+    CONSOLE
 };
 
 struct Token {
